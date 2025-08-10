@@ -35,7 +35,7 @@ export default function HomePage() {
       setIsPageLoading(false)
     }, 2000)
     
-    // Live stats animation
+    // Live stats animation with performance optimization
     const interval = setInterval(() => {
       setLiveStats(prev => ({
         learners: prev.learners + Math.floor(Math.random() * 5),

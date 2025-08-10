@@ -8,7 +8,7 @@ interface VoiceRecorderProps {
 
 const VoiceRecorder: React.FC<VoiceRecorderProps> = ({ onTranscript, disabled = false }) => {
   const [isRecording, setIsRecording] = useState(false);
-  const recognitionRef = useRef<SpeechRecognition | null>(null);
+  const recognitionRef = useRef<any>(null);
 
   const startRecording = () => {
     const SpeechRecognition =
