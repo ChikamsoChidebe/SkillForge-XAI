@@ -18,7 +18,7 @@
 - 🎤 Real-time voice learning using OpenAI Whisper & TTS
 - 📊 Advanced learning analytics and progress tracking
 - 🎮 Gamified learning experience with achievements
-- 🔮 Predictive AI recommendations and personalized paths*
+- 🔮 Predictive AI recommendations and personalized paths.*
 
 ## 🏆 **Why SkillForge-XAI Dominates OpenxAI Global Accelerator 2025**
 
