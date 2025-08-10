@@ -149,8 +149,7 @@ export default function Dashboard() {
             description: 'Complete your first lesson',
             badge_color: '#10B981',
             rarity: 'common',
-            points_reward: 50,
-            is_active: true
+            points_reward: 50
           },
           {
             id: '2',
@@ -158,8 +157,7 @@ export default function Dashboard() {
             description: 'Complete 5 lessons in one day',
             badge_color: '#F59E0B',
             rarity: 'rare',
-            points_reward: 200,
-            is_active: true
+            points_reward: 200
           }
         ]);
       }
