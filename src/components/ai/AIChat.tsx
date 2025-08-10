@@ -132,7 +132,7 @@ const AIChat: React.FC<AIChatProps> = ({
       setIsRecording(false);
     };
 
-    recognition.onerror = (err) => {
+    recognition.onerror = (err: any) => {
       console.error("Speech recognition error:", err);
       setIsRecording(false);
     };
