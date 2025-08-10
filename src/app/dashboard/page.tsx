@@ -114,7 +114,6 @@ export default function Dashboard() {
             estimated_duration_hours: 8,
             rating: 4.8,
             total_enrollments: 1250,
-            is_published: true,
             categories: { name: 'AI & Machine Learning', color: '#8B5CF6' }
           },
           {
@@ -126,7 +125,6 @@ export default function Dashboard() {
             estimated_duration_hours: 12,
             rating: 4.9,
             total_enrollments: 890,
-            is_published: true,
             categories: { name: 'Web Development', color: '#10B981' }
           }
         ]);
