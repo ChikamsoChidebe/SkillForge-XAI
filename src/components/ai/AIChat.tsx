@@ -126,7 +126,7 @@ const AIChat: React.FC<AIChatProps> = ({
     recognition.maxAlternatives = 1;
     recognition.continuous = false;
 
-    recognition.onresult = (event: SpeechRecognitionEvent) => {
+    recognition.onresult = (event: any) => {
       const transcript = event.results[0][0].transcript;
       handleSendMessage(transcript, true);
       setIsRecording(false);
