@@ -238,7 +238,7 @@ export default function Dashboard() {
   ];
 
   if (isLoading) {
-    return <LoadingScreen userName={user?.full_name} />;
+    return <LoadingScreen message={`Welcome back, ${user?.full_name || 'User'}!`} />;
   }
 
   return (
