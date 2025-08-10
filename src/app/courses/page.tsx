@@ -118,7 +118,7 @@ export default function CoursesPage() {
           is_free: true,
           total_ratings: Math.floor(Math.random() * 100) + 10,
           tags: ['AI', 'Learning', 'Interactive'],
-          thumbnail_url: courseImages[course.title] || 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=250&fit=crop&auto=format'
+          thumbnail_url: courseImages[course.title as keyof typeof courseImages] || 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=250&fit=crop&auto=format'
         }));
         setCourses(formattedCourses);
       }
