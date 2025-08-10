@@ -30,7 +30,7 @@ const AIChat: React.FC<AIChatProps> = ({
   const [isLoading, setIsLoading] = useState(false);
   const [isRecording, setIsRecording] = useState(false);
   const messagesEndRef = useRef<HTMLDivElement>(null);
-  const recognitionRef = useRef<SpeechRecognition | null>(null);
+  const recognitionRef = useRef<any>(null);
   const { speak, stop, isPlaying } = useVoice();
 
   const scrollToBottom = () => {
