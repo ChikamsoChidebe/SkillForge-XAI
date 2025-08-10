@@ -480,7 +480,7 @@ export default function HomePage() {
               <motion.div 
                 className="text-center p-4 sm:p-8 bg-white/10 backdrop-blur-xl rounded-2xl sm:rounded-3xl border border-white/20 shadow-2xl"
                 animate={{ scale: [1, 1.02, 1] }}
-                transition={{ duration: 3, repeat: Infinity }}
+                transition={{ duration: 3, repeat: Infinity as any }}
               >
                 <div className="text-2xl sm:text-4xl font-bold text-white mb-2 sm:mb-3 drop-shadow-lg">
                   {liveStats.learners.toLocaleString()}
@@ -494,7 +494,7 @@ export default function HomePage() {
               <motion.div 
                 className="text-center p-4 sm:p-8 bg-white/10 backdrop-blur-xl rounded-2xl sm:rounded-3xl border border-white/20 shadow-2xl"
                 animate={{ scale: [1, 1.02, 1] }}
-                transition={{ duration: 3, repeat: Infinity, delay: 0.5 }}
+                transition={{ duration: 3, repeat: Infinity as any, delay: 0.5 }}
               >
                 <div className="text-2xl sm:text-4xl font-bold text-white mb-2 sm:mb-3 drop-shadow-lg">
                   {liveStats.courses}
@@ -507,7 +507,7 @@ export default function HomePage() {
               <motion.div 
                 className="text-center p-4 sm:p-8 bg-white/10 backdrop-blur-xl rounded-2xl sm:rounded-3xl border border-white/20 shadow-2xl"
                 animate={{ scale: [1, 1.02, 1] }}
-                transition={{ duration: 3, repeat: Infinity, delay: 1 }}
+                transition={{ duration: 3, repeat: Infinity as any, delay: 1 }}
               >
                 <div className="text-2xl sm:text-4xl font-bold text-white mb-2 sm:mb-3 drop-shadow-lg">
                   {liveStats.success.toFixed(1)}%
