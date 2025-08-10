@@ -469,10 +469,10 @@ export default function HomePage() {
                 <Rocket className="mr-3 w-6 h-6" />
                 {user ? "Go to Dashboard" : "Start Learning Free"}
               </Link>
-              <button className="px-10 py-5 bg-white/20 backdrop-blur-sm border-2 border-white/30 text-white hover:bg-white/30 rounded-2xl font-bold text-xl transition-all transform hover:scale-105 inline-flex items-center justify-center shadow-xl">
+              <a href="https://youtu.be/PI5zxGMHOo4" target="_blank" rel="noopener noreferrer" className="px-10 py-5 bg-white/20 backdrop-blur-sm border-2 border-white/30 text-white hover:bg-white/30 rounded-2xl font-bold text-xl transition-all transform hover:scale-105 inline-flex items-center justify-center shadow-xl">
                 <Play className="mr-3 w-6 h-6" />
                 Watch Demo
-              </button>
+              </a>
             </div>
 
             {/* Live Stats */}
@@ -849,13 +849,15 @@ export default function HomePage() {
                 <ArrowRight className="ml-2 w-6 h-6 group-hover:translate-x-1 transition-transform" />
               </Link>
               
-              <button 
-                onClick={() => setShowLiveDemo(true)}
+              <a 
+                href="https://youtu.be/PI5zxGMHOo4"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-white/20 backdrop-blur-sm text-white hover:bg-white/30 font-bold py-4 px-8 rounded-2xl text-lg transition-all border border-white/30 inline-flex items-center"
               >
                 <Play className="mr-2 w-6 h-6" />
                 Experience Live Demo
-              </button>
+              </a>
             </div>
             
             {/* Key Features */}

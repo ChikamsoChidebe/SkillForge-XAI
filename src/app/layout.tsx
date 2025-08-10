@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://skillforge-xai.vercel.app',
+    url: 'https://skill-forge-xai.vercel.app',
     title: '🏆 SkillForge-XAI | OpenxAI Global Accelerator 2025',
     description: '🚀 Revolutionary AI-powered learning platform with GPT-4 intelligence, voice learning, and adaptive assessments.',
     siteName: 'SkillForge-XAI',

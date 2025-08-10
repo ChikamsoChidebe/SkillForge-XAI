@@ -1,7 +1,7 @@
 # 🏆 SkillForge-XAI - Revolutionary AI Learning Platform
 
 [![OpenxAI Global Accelerator 2025](https://img.shields.io/badge/🏆%20OpenxAI%20Global%20Accelerator-2025%20SUBMISSION-gold?style=for-the-badge)](https://accelerator.openxai.org)
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-AVAILABLE-brightgreen?style=for-the-badge)](https://skillforge-xai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-AVAILABLE-brightgreen?style=for-the-badge)](https://skill-forge-xai.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4%20%2B%20Whisper-green?style=for-the-badge&logo=openai)](https://openai.com/)
@@ -11,7 +11,7 @@
 
 ## 🎥 Demo Video (≤3 minutes)
 
-[![SkillForge-XAI Demo](https://img.shields.io/badge/🎬%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/DEMO_VIDEO_ID)
+[![SkillForge-XAI Demo](https://img.shields.io/badge/🎬%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/PI5zxGMHOo4)
 
 *🎯 **Professional 3-minute demo showcasing:**
 - 🧠 GPT-4 powered AI tutoring with adaptive responses
@@ -399,7 +399,7 @@ git push origin feature/hackathon-enhancement
 
 **🎯 Track: LearnAI**
 - ✅ **Revolutionary AI Platform**: GPT-4 + Whisper + TTS integration
-- ✅ **Live Demo**: [skillforge-xai.vercel.app](https://skillforge-xai.vercel.app)
+- ✅ **Live Demo**: [skill-forge-xai.vercel.app](https://skill-forge-xai.vercel.app)
 - ✅ **Professional Video**: 3-minute demo showcasing all features
 - ✅ **Clean Codebase**: TypeScript, ESLint, Prettier, 95%+ test coverage
 - ✅ **Comprehensive Documentation**: API docs, deployment guides, tutorials
@@ -508,8 +508,8 @@ Built for OpenxAI Global Accelerator 2025 - LearnAI Track
 **🏆 Hackathon Judges & Reviewers:**
 - **📧 Email**: skillforge.xai@gmail.com
 - **🐙 GitHub**: [Repository](https://github.com/ChikamsoChidebe/SkillForge-XAI)
-- **🚀 Live Demo**: [skillforge-xai.vercel.app](https://skillforge-xai.vercel.app)
-- **🎬 Demo Video**: [YouTube Link](https://youtu.be/DEMO_VIDEO_ID)
+- **🚀 Live Demo**: [skill-forge-xai.vercel.app](https://skill-forge-xai.vercel.app)
+- **🎬 Demo Video**: [YouTube Link](https://youtu.be/PI5zxGMHOo4)
 
 **💬 Community & Support:**
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/ChikamsoChidebe/SkillForge-XAI/issues)
@@ -539,8 +539,8 @@ Built for OpenxAI Global Accelerator 2025 - LearnAI Track
 7. **🔮 Future-Ready**: Blockchain integration roadmap and Web3 compatibility
 
 ### **🎬 Experience the Future:**
-- **🌐 Live Demo**: [skillforge-xai.vercel.app](https://skillforge-xai.vercel.app)
-- **🎥 Demo Video**: [3-minute showcase](https://youtu.be/DEMO_VIDEO_ID)
+- **🌐 Live Demo**: [skill-forge-xai.vercel.app](https://skill-forge-xai.vercel.app)
+- **🎥 Demo Video**: [3-minute showcase](https://youtu.be/PI5zxGMHOo4)
 - **📱 Mobile App**: Progressive Web App with offline capabilities
 - **🎤 Voice Demo**: Try voice learning with OpenAI Whisper + TTS
 
