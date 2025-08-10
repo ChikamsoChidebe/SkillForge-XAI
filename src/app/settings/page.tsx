@@ -205,7 +205,7 @@ export default function SettingsPage() {
                   <label className="relative inline-flex items-center cursor-pointer">
                     <input
                       type="checkbox"
-                      checked={settings.privacy[item.key as keyof typeof settings.privacy]}
+                      checked={Boolean(settings.privacy[item.key as keyof typeof settings.privacy])}
                       onChange={(e) => updateSetting('privacy', item.key, e.target.checked)}
                       className="sr-only peer"
                     />
